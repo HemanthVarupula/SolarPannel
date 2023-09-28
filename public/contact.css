@@ -75,3 +75,14 @@
 .footer-row,a:hover{
     color: black
 }
+
+.b1{
+    background-color: blue;
+    height: 35px;
+    width: 70px;
+}
+
+.b1:hover{
+    background-color: lightblue;
+    cursor: pointer;
+}
